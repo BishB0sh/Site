@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="MANIFEST_d0d5dce7_4417_4f8e_b0c2_f893c7b2eb04" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:dc="http://www.sap.com/xsd/dc" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd http://www.sap.com/xsd/dc dces.xsd">
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+    </metadata>
+    <organizations default="ORG_book_BO_6081ADA2BD38FABF_0">
+        <organization identifier="ORG_book_BO_6081ADA2BD38FABF_0">
+            <title>Me@BCX</title>
+            <item isvisible="true" identifier="ORG_book_BO_6081ADA2BD38FABF_1" identifierref="book_BO_6081ADA2BD38FABF">
+                <title>Me@BCX</title>
+            </item>
+        </organization>
+    </organizations>
+    <resources>
+        <resource identifier="adaptable_bcx_trainer_medium" href="index.html?show=adaptable!bcx_trainer_medium" type="webcontent" adlcp:scormtype="asset">
+            <file href="adaptable/bcx_trainer_medium/tipp.gif"/>
+            <file href="adaptable/bcx_trainer_medium/bbd_startpage.png"/>
+            <file href="adaptable/bcx_trainer_medium/1.gif"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_general_128x128.png"/>
+            <file href="adaptable/bcx_trainer_medium/tree_icons.txt"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_wide_310x150.png"/>
+            <file href="adaptable/bcx_trainer_medium/bbd_start_pic1.png"/>
+            <file href="adaptable/bcx_trainer_medium/tryagain.png"/>
+            <file href="adaptable/bcx_trainer_medium/colors.html"/>
+            <file href="adaptable/bcx_trainer_medium/s.png"/>
+            <file href="adaptable/bcx_trainer_medium/frame.txt"/>
+            <file href="adaptable/bcx_trainer_medium/goon.png"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_small_120x120.png"/>
+            <file href="adaptable/bcx_trainer_medium/tri_link_ora2.png"/>
+            <file href="adaptable/bcx_trainer_medium/tree_icons.png"/>
+            <file href="adaptable/bcx_trainer_medium/help.png"/>
+            <file href="adaptable/bcx_trainer_medium/gr_startpage.png"/>
+            <file href="adaptable/bcx_trainer_medium/gr_start_pic.png"/>
+            <file href="adaptable/bcx_trainer_medium/o.gif"/>
+            <file href="adaptable/bcx_trainer_medium/hinweis.gif"/>
+            <file href="adaptable/bcx_trainer_medium/hg.gif"/>
+            <file href="adaptable/bcx_trainer_medium/warnung.gif"/>
+            <file href="adaptable/bcx_trainer_medium/next_red.int.gif"/>
+            <file href="adaptable/bcx_trainer_medium/info.gif"/>
+            <file href="adaptable/bcx_trainer_medium/navigator_close_normal.gif"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_large_310x310.png"/>
+            <file href="adaptable/bcx_trainer_medium/none.gif"/>
+            <file href="adaptable/bcx_trainer_medium/sh.png"/>
+            <file href="adaptable/bcx_trainer_medium/save_log.txt"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_medium_152x152.png"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_normal_192x192.png"/>
+            <file href="adaptable/bcx_trainer_medium/sv.png"/>
+            <file href="adaptable/bcx_trainer_medium/td.png"/>
+            <file href="adaptable/bcx_trainer_medium/tri_link_2011.png"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_browser_64x64.png"/>
+            <file href="adaptable/bcx_trainer_medium/t_app_icon_tiny_76x76.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_categories" href="index.html?show=adaptable!categories" type="webcontent" adlcp:scormtype="asset">
+            <file href="adaptable/categories/translation.cs.txt"/>
+            <file href="adaptable/categories/translation.sl.txt"/>
+            <file href="adaptable/categories/translation.de-CH.txt"/>
+            <file href="adaptable/categories/translation.es-CO.txt"/>
+            <file href="adaptable/categories/translation.ms-MY.txt"/>
+            <file href="adaptable/categories/translation.sr-SP.txt"/>
+            <file href="adaptable/categories/translation.ru.txt"/>
+            <file href="adaptable/categories/translation.ar-SA.txt"/>
+            <file href="adaptable/categories/translation.id.txt"/>
+            <file href="adaptable/categories/translation.da.txt"/>
+            <file href="adaptable/categories/translation.it-IT.txt"/>
+            <file href="adaptable/categories/translation.de-DE.txt"/>
+            <file href="adaptable/categories/translation.bg.txt"/>
+            <file href="adaptable/categories/translation.el.txt"/>
+            <file href="adaptable/categories/translation.ja.txt"/>
+            <file href="adaptable/categories/translation.en-GB.txt"/>
+            <file href="adaptable/categories/translation.en-US.txt"/>
+            <file href="adaptable/categories/translation.es-ES.txt"/>
+            <file href="adaptable/categories/translation.hr-HR.txt"/>
+            <file href="adaptable/categories/translation.nl-NL.txt"/>
+            <file href="adaptable/categories/translation.fr-FR.txt"/>
+            <file href="adaptable/categories/translation.pt-PT.txt"/>
+            <file href="adaptable/categories/translation.hu.txt"/>
+            <file href="adaptable/categories/translation.et.txt"/>
+            <file href="adaptable/categories/translation.fi.txt"/>
+            <file href="adaptable/categories/translation.fr-CA.txt"/>
+            <file href="adaptable/categories/translation.he.txt"/>
+            <file href="adaptable/categories/translation.hi.txt"/>
+            <file href="adaptable/categories/translation.kk.txt"/>
+            <file href="adaptable/categories/translation.lt.txt"/>
+            <file href="adaptable/categories/translation.ko.txt"/>
+            <file href="adaptable/categories/translation.nb.txt"/>
+            <file href="adaptable/categories/translation.th.txt"/>
+            <file href="adaptable/categories/translation.lv.txt"/>
+            <file href="adaptable/categories/translation.pl.txt"/>
+            <file href="adaptable/categories/translation.pt-BR.txt"/>
+            <file href="adaptable/categories/translation.ro.txt"/>
+            <file href="adaptable/categories/translation.sk.txt"/>
+            <file href="adaptable/categories/translation.tr.txt"/>
+            <file href="adaptable/categories/translation.uk.txt"/>
+            <file href="adaptable/categories/translation.sv-SE.txt"/>
+            <file href="adaptable/categories/translation.vi.txt"/>
+            <file href="adaptable/categories/translation.zh-CN.txt"/>
+            <file href="adaptable/categories/translation.zh-TW.txt"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_simulation_playback" href="index.html?show=adaptable!simulation_playback" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="adaptable_text_styles" href="index.html?show=adaptable!text_styles" type="webcontent" adlcp:scormtype="asset">
+            <file href="adaptable/text_styles/text_styles.css"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-adaptable</dc:format>
+        </resource>
+        <resource identifier="book_BO_549182F80296DD83" href="index.html?show=book!BO_549182F80296DD83" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="slide_SL_33998E47B9FC7FBA"/>
+            <dependency identifierref="slide_SL_F822014CD439BCAF"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-book</dc:format>
+        </resource>
+        <resource identifier="book_BO_6081ADA2BD38FABF" href="index.html?show=book!BO_6081ADA2BD38FABF" type="webcontent" adlcp:scormtype="sco">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="book_BO_549182F80296DD83"/>
+            <dependency identifierref="group_GR_50F1B14B81BBE97"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="slide_SL_C3DC2153A947568A"/>
+            <dependency identifierref="slide_SL_C5F350FB32777492"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-book</dc:format>
+        </resource>
+        <resource identifier="book_style_standard" href="index.html?show=book_style!standard" type="webcontent" adlcp:scormtype="asset">
+            <file href="book_style/standard/icons/open_moreInfoBtn.png"/>
+            <file href="book_style/standard/textbox/close_hi.png"/>
+            <file href="book_style/standard/page/page_image.png"/>
+            <file href="book_style/standard/arrow_down.png"/>
+            <file href="book_style/standard/textbox/icon_info.png"/>
+            <file href="book_style/standard/clip.png"/>
+            <file href="book_style/standard/textbox/textbox.css"/>
+            <file href="book_style/standard/icons/quiz.png"/>
+            <file href="book_style/standard/icons/book.png"/>
+            <file href="book_style/standard/textbox/icon_tip.png"/>
+            <file href="book_style/standard/filelist.txt"/>
+            <file href="book_style/standard/icons/practice.png"/>
+            <file href="book_style/standard/icons/concurrent.png"/>
+            <file href="book_style/standard/icons/demo.png"/>
+            <file href="book_style/standard/icons/guided.png"/>
+            <file href="book_style/standard/icons/start.png"/>
+            <file href="book_style/standard/textbox/bottom_right_end.png"/>
+            <file href="book_style/standard/textbox/vert_right.png"/>
+            <file href="book_style/standard/textbox/vert_right_bottom.png"/>
+            <file href="book_style/standard/icons/open_textwindow.png"/>
+            <file href="book_style/standard/icons/open_tipsBtn.png"/>
+            <file href="book_style/standard/icons/pres.png"/>
+            <file href="book_style/standard/textbox/bottom.png"/>
+            <file href="book_style/standard/icons/slide.png"/>
+            <file href="book_style/standard/icons/test.png"/>
+            <file href="book_style/standard/icons/zoom.png"/>
+            <file href="book_style/standard/icons/zoom_active.png"/>
+            <file href="book_style/standard/min_bubble.png"/>
+            <file href="book_style/standard/page/ArrowNext.gif"/>
+            <file href="book_style/standard/textbox/top.png"/>
+            <file href="book_style/standard/textbox/bottom_left_end.png"/>
+            <file href="book_style/standard/page/ArrowNext_highlight.gif"/>
+            <file href="book_style/standard/page/ArrowPrevious.gif"/>
+            <file href="book_style/standard/page/ArrowPrevious_highlight.gif"/>
+            <file href="book_style/standard/textbox/close.png"/>
+            <file href="book_style/standard/textbox/top_left.png"/>
+            <file href="book_style/standard/textbox/top_right.png"/>
+            <file href="book_style/standard/textbox/vert_left.png"/>
+            <file href="book_style/standard/textbox/vert_left_bottom.png"/>
+            <file href="book_style/standard/textbox/vert_left_top.png"/>
+            <file href="book_style/standard/textbox/vert_right_top.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-book_style</dc:format>
+        </resource>
+        <resource identifier="bubble_bcx_explanation" href="index.html?show=bubble!bcx_explanation" type="webcontent" adlcp:scormtype="asset">
+            <file href="bubble/bcx_explanation/bubble.txt"/>
+            <file href="bubble/bcx_explanation/sprite.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-bubble</dc:format>
+        </resource>
+        <resource identifier="bubble_bcx_information_bubble" href="index.html?show=bubble!bcx_information_bubble" type="webcontent" adlcp:scormtype="asset">
+            <file href="bubble/bcx_information_bubble/bubble.txt"/>
+            <file href="bubble/bcx_information_bubble/sprite.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-bubble</dc:format>
+        </resource>
+        <resource identifier="bubble_bcx_white_shadow" href="index.html?show=bubble!bcx_white_shadow" type="webcontent" adlcp:scormtype="asset">
+            <file href="bubble/bcx_white_shadow/bubble.txt"/>
+            <file href="bubble/bcx_white_shadow/sprite.png"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-bubble</dc:format>
+        </resource>
+        <resource identifier="glossary_standard" href="index.html?show=glossary!standard" type="webcontent" adlcp:scormtype="asset">
+            <file href="glossary/standard/textatoms.lv.txt"/>
+            <file href="glossary/standard/textatoms.da.txt"/>
+            <file href="glossary/standard/textatoms.ro.txt"/>
+            <file href="glossary/standard/textatoms.de-DE.txt"/>
+            <file href="glossary/standard/textatoms.bg.txt"/>
+            <file href="glossary/standard/textatoms.es-ES.txt"/>
+            <file href="glossary/standard/textatoms.fr-FR.txt"/>
+            <file href="glossary/standard/textatoms.nl-NL.txt"/>
+            <file href="glossary/standard/textatoms.pt-PT.txt"/>
+            <file href="glossary/standard/textatoms.id.txt"/>
+            <file href="glossary/standard/textatoms.it-IT.txt"/>
+            <file href="glossary/standard/textatoms.nb.txt"/>
+            <file href="glossary/standard/textatoms.ko.txt"/>
+            <file href="glossary/standard/textatoms.ar-SA.txt"/>
+            <file href="glossary/standard/textatoms.cs.txt"/>
+            <file href="glossary/standard/textatoms.en-US.txt"/>
+            <file href="glossary/standard/textatoms.es-CO.txt"/>
+            <file href="glossary/standard/textatoms.de-CH.txt"/>
+            <file href="glossary/standard/textatoms.pt-BR.txt"/>
+            <file href="glossary/standard/textatoms.el.txt"/>
+            <file href="glossary/standard/textatoms.hi.txt"/>
+            <file href="glossary/standard/textatoms.en-GB.txt"/>
+            <file href="glossary/standard/textatoms.ru.txt"/>
+            <file href="glossary/standard/textatoms.sl.txt"/>
+            <file href="glossary/standard/textatoms.vi.txt"/>
+            <file href="glossary/standard/textatoms.ms-MY.txt"/>
+            <file href="glossary/standard/textatoms.he.txt"/>
+            <file href="glossary/standard/textatoms.et.txt"/>
+            <file href="glossary/standard/textatoms.fi.txt"/>
+            <file href="glossary/standard/textatoms.fr-CA.txt"/>
+            <file href="glossary/standard/textatoms.hr-HR.txt"/>
+            <file href="glossary/standard/textatoms.hu.txt"/>
+            <file href="glossary/standard/textatoms.ja.txt"/>
+            <file href="glossary/standard/textatoms.lt.txt"/>
+            <file href="glossary/standard/textatoms.kk.txt"/>
+            <file href="glossary/standard/textatoms.th.txt"/>
+            <file href="glossary/standard/textatoms.zh-TW.txt"/>
+            <file href="glossary/standard/textatoms.pl.txt"/>
+            <file href="glossary/standard/textatoms.sk.txt"/>
+            <file href="glossary/standard/textatoms.sr-SP.txt"/>
+            <file href="glossary/standard/textatoms.sv-SE.txt"/>
+            <file href="glossary/standard/textatoms.tr.txt"/>
+            <file href="glossary/standard/textatoms.uk.txt"/>
+            <file href="glossary/standard/textatoms.zh-CN.txt"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-glossary</dc:format>
+        </resource>
+        <resource identifier="group_GR_1DC85445EE0BAB93" href="index.html?show=group!GR_1DC85445EE0BAB93" type="webcontent" adlcp:scormtype="asset">
+            <file href="group/GR_1DC85445EE0BAB93/251F6191ADCB2CB7.gif"/>
+            <file href="group/GR_1DC85445EE0BAB93/8884CE1CF2DD2D90.gif"/>
+            <file href="group/GR_1DC85445EE0BAB93/C2168FE9EE58E996.png"/>
+            <file href="group/GR_1DC85445EE0BAB93/96C1FABB700C9C99.gif"/>
+            <file href="group/GR_1DC85445EE0BAB93/97E3F8D7B0A1C9AD.gif"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-group</dc:format>
+        </resource>
+        <resource identifier="group_GR_45A5641CCD424B95" href="index.html?show=group!GR_45A5641CCD424B95" type="webcontent" adlcp:scormtype="asset">
+            <file href="group/GR_45A5641CCD424B95/81D3F02A0D4E3EB4.png"/>
+            <file href="group/GR_45A5641CCD424B95/B30A92E787E0B6BE.png"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-group</dc:format>
+        </resource>
+        <resource identifier="group_GR_50F1B14B81BBE97" href="index.html?show=group!GR_50F1B14B81BBE97" type="webcontent" adlcp:scormtype="asset">
+            <file href="group/GR_50F1B14B81BBE97/4B1AF9938C116298.mp3"/>
+            <file href="group/GR_50F1B14B81BBE97/7D30A025419D8092.mp3"/>
+            <file href="group/GR_50F1B14B81BBE97/57112A31AB4F6FB3.mp3"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-group</dc:format>
+        </resource>
+        <resource identifier="group_GR_B7B4253175DCA99A" href="index.html?show=group!GR_B7B4253175DCA99A" type="webcontent" adlcp:scormtype="asset">
+            <file href="group/GR_B7B4253175DCA99A/18C376D03132C7AF.png"/>
+            <file href="group/GR_B7B4253175DCA99A/28B9DE3B8874419B.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3767B01D1FB0E789.png"/>
+            <file href="group/GR_B7B4253175DCA99A/92E507AD60629C94.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5C5F5A915A48B87.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5075E73B77C5FE94.png"/>
+            <file href="group/GR_B7B4253175DCA99A/115700C19C3B1EBC.png"/>
+            <file href="group/GR_B7B4253175DCA99A/CE996836FB45E193.png"/>
+            <file href="group/GR_B7B4253175DCA99A/408EFF833120368A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/4E066851788725B6.png"/>
+            <file href="group/GR_B7B4253175DCA99A/128A109E093ADBB1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D888015C480BEEAE.png"/>
+            <file href="group/GR_B7B4253175DCA99A/40BD24E82C8EF0B0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D40060A85D1FEEB0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/9AC3091B470FD2AB.gif"/>
+            <file href="group/GR_B7B4253175DCA99A/24074C3FDCC2EF9D.png"/>
+            <file href="group/GR_B7B4253175DCA99A/4469BDE6FD470C92.png"/>
+            <file href="group/GR_B7B4253175DCA99A/147486EB8C51A38A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/50827865AAAD5C8B.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8239E95F5B5706B4.png"/>
+            <file href="group/GR_B7B4253175DCA99A/436499B9711C49AD.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2A0D8E4C223D1E84.png"/>
+            <file href="group/GR_B7B4253175DCA99A/9858DF0F3B353B8.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/1762566C6009B784.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FEEACE12F60B7DAB.png"/>
+            <file href="group/GR_B7B4253175DCA99A/1DF01F60F6C10EB7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/1B229BB7C1CD4F93.png"/>
+            <file href="group/GR_B7B4253175DCA99A/246CAD4C599775B5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/62D36AB932949095.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3F4B16FE3E744F9F.png"/>
+            <file href="group/GR_B7B4253175DCA99A/57F6DCB334524780.png"/>
+            <file href="group/GR_B7B4253175DCA99A/49219D48C6C0BEB3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/545C651D909D90AB.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C51A2F1345EA5582.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D171E44DAD1FE0A3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2C99FC2F822878A1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/27C372AAB583993.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8B60FE9903C8FEB9.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7B7DF7028A51769C.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/E33E4FEB45DCEFA6.png"/>
+            <file href="group/GR_B7B4253175DCA99A/50E3244902D9DFB8.png"/>
+            <file href="group/GR_B7B4253175DCA99A/324C14407A7A89A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/28536A09150179A7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/299F727736890F94.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3615181CE2FE23B3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/54C1C4CD136933A5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3BD89E4538529186.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2D751E52ABB0B0B7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2A1A91F41669E98D.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2B147F005A343EBE.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/5342D8ECAB1AC38C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C2CC6E48F3F3F0B0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/48CE197A650A53AC.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B7D3173FA14FE5B0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/674B8C31FF087796.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2DC7403165C1889A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/2F8A811B052259C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3D46F2A462E981A1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/34FDC8C943852198.png"/>
+            <file href="group/GR_B7B4253175DCA99A/36FC972305A15ABB.png"/>
+            <file href="group/GR_B7B4253175DCA99A/CFE24F1ADFA333A5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/3D18A5E16286DE8C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/40E571E8463BE2AC.png"/>
+            <file href="group/GR_B7B4253175DCA99A/4546C83DC6B3DE8A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5759ABCD5FC2799C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/4578A259568316A3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/56BFEDBA3F23FEA3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/47FF64A336A8C3AF.png"/>
+            <file href="group/GR_B7B4253175DCA99A/978E41B232458798.png"/>
+            <file href="group/GR_B7B4253175DCA99A/49C8A65576E1D68D.png"/>
+            <file href="group/GR_B7B4253175DCA99A/4F635C15D47ECDBD.png"/>
+            <file href="group/GR_B7B4253175DCA99A/503CE128555CC0B1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5ADE4C83C29BEE92.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/F2D9822238FB3BBB.png"/>
+            <file href="group/GR_B7B4253175DCA99A/54D823AFFF6E5CA2.png"/>
+            <file href="group/GR_B7B4253175DCA99A/55A434FF8DF3B81.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5AB507FE42BA6198.png"/>
+            <file href="group/GR_B7B4253175DCA99A/5AC50316B310D8A8.png"/>
+            <file href="group/GR_B7B4253175DCA99A/63075CA679EB3E86.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D54E2DB84F7F9994.png"/>
+            <file href="group/GR_B7B4253175DCA99A/61AFD33B630B3CBA.png"/>
+            <file href="group/GR_B7B4253175DCA99A/62200076648A979C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/6E1C0F3A7945C9A0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/6FB561090E478CB7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/73D331B1D59A481.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7B55684002E19DA3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/73EDC413855792AC.png"/>
+            <file href="group/GR_B7B4253175DCA99A/74F80FDDCA8E8094.png"/>
+            <file href="group/GR_B7B4253175DCA99A/780804E7CA1289B3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/785E2E5B0D8B0792.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7A71C719B3ECA8E.png"/>
+            <file href="group/GR_B7B4253175DCA99A/95AA4BC120C38B90.png"/>
+            <file href="group/GR_B7B4253175DCA99A/9460F2D3FAF37FA3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7AAA5670271CEA91.png"/>
+            <file href="group/GR_B7B4253175DCA99A/88E6CFAE851ED5A3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7D0360B14025DE87.png"/>
+            <file href="group/GR_B7B4253175DCA99A/7F69D446EE243A89.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8069578EF7CE029F.png"/>
+            <file href="group/GR_B7B4253175DCA99A/80F60791EF817BA9.png"/>
+            <file href="group/GR_B7B4253175DCA99A/815F245EEC1FBB9C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8192C2590F00F2A5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/825E6F0D6A9EAD95.png"/>
+            <file href="group/GR_B7B4253175DCA99A/82CF4BAE3AC2A4B7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8353507ED269B6.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F7C02FCC5AE680B4.png"/>
+            <file href="group/GR_B7B4253175DCA99A/84EA66B33AE7E8A2.png"/>
+            <file href="group/GR_B7B4253175DCA99A/89072BD72A2D6C8F.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8AC0CB62D012A9BE.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8B8D883B5EF84B0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8C47DCEFD5071F8C.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8CDDD9CDB2F1CEAA.png"/>
+            <file href="group/GR_B7B4253175DCA99A/8EB9116846C9ACB6.png"/>
+            <file href="group/GR_B7B4253175DCA99A/906C1328A81E3E80.png"/>
+            <file href="group/GR_B7B4253175DCA99A/91659417F579F188.png"/>
+            <file href="group/GR_B7B4253175DCA99A/92C5BA77639ECE81.png"/>
+            <file href="group/GR_B7B4253175DCA99A/993035B50E23038A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FAE1EA39B1C923BC.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FB949E77D7B6E796.png"/>
+            <file href="group/GR_B7B4253175DCA99A/A320BC2B8871C7A5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/9495D627D2F54697.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D649BF07DCC4478E.png"/>
+            <file href="group/GR_B7B4253175DCA99A/95F3BFCE824F98B2.png"/>
+            <file href="group/GR_B7B4253175DCA99A/987F699884153B9D.png"/>
+            <file href="group/GR_B7B4253175DCA99A/99E13FB3E05CF495.png"/>
+            <file href="group/GR_B7B4253175DCA99A/9B9CAC10FA55BE83.png"/>
+            <file href="group/GR_B7B4253175DCA99A/A17D5E677CFDE296.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D77C0754FA30E993.png"/>
+            <file href="group/GR_B7B4253175DCA99A/AC4AF45DB11F8AB8.png"/>
+            <file href="group/GR_B7B4253175DCA99A/AF5B2D55AFEDA4AF.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/B0C8575124B98CBA.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B22B99388E3193A1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B261563863673BB8.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B2B865B082873895.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B7007CE1DEC33BA1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B7550AAF6B5DBFBB.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B7EB33A92E2E0786.png"/>
+            <file href="group/GR_B7B4253175DCA99A/B8F92BA1D9B3BC9E.png"/>
+            <file href="group/GR_B7B4253175DCA99A/BA853664DA85CB95.png"/>
+            <file href="group/GR_B7B4253175DCA99A/BAE95401E4CBFB94.png"/>
+            <file href="group/GR_B7B4253175DCA99A/BB3BD0BE4F38DE86.png"/>
+            <file href="group/GR_B7B4253175DCA99A/BC92A081CCB5F9B1.png"/>
+            <file href="group/GR_B7B4253175DCA99A/BDC7042D84CA179D.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F4A6455F0A800299.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C06276D21176EB82.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C095D81E53CAAEA3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C182193F40BA2CA5.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C5FF5EEFFE145DA0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/C6860390AA61F1A3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/CBA7463A3C382180.png"/>
+            <file href="group/GR_B7B4253175DCA99A/CD82551E830BE7AD.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D17E895F57E73ABF.png"/>
+            <file href="group/GR_B7B4253175DCA99A/E17FBC6F07BFED92.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D61825123F3762BE.png"/>
+            <file href="group/GR_B7B4253175DCA99A/D1BC7EDEADFE26AA.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DC6A6A40099B0384.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DD61FE65FB245895.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DDE0D22BF523A58A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DE40A38FE8CEB8B7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DEF9B46E87D647B7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/DF75967387EE31BF.jpg"/>
+            <file href="group/GR_B7B4253175DCA99A/E058DA089B4C869F.png"/>
+            <file href="group/GR_B7B4253175DCA99A/E35F1A9742AAD786.png"/>
+            <file href="group/GR_B7B4253175DCA99A/E41E229D2D29CEB8.png"/>
+            <file href="group/GR_B7B4253175DCA99A/E48C675406D78692.png"/>
+            <file href="group/GR_B7B4253175DCA99A/E55D12235A99F4A3.png"/>
+            <file href="group/GR_B7B4253175DCA99A/EF4FC999F92C53BA.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F10BD01B8E2726B7.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F475211CAE3D8F98.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F2055CACDD0C2090.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F589B71FEAF20C89.png"/>
+            <file href="group/GR_B7B4253175DCA99A/F6BCCFBF6D6C28BF.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FA76D9DC611E16A0.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FB27382E573BD9E.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FFA3F0BA1D099184.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FCA598BFDB53D183.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FE9E6195ACBD2582.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FED0E0B8D66FE69A.png"/>
+            <file href="group/GR_B7B4253175DCA99A/FF65E77F4DB9BCB0.png"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-group</dc:format>
+        </resource>
+        <resource identifier="group_GR_D96F7AF30A5415BA" href="index.html?show=group!GR_D96F7AF30A5415BA" type="webcontent" adlcp:scormtype="asset">
+            <file href="group/GR_D96F7AF30A5415BA/F29ED2693FC82ABF.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/2563F6A444D7E7B4.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/7C6F7659732A4C98.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/512887DBE33386AF.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/58967D1A2655B290.png"/>
+            <file href="group/GR_D96F7AF30A5415BA/3179C29CF41A14B0.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/3864E18AA983DA0.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/330AEC1259136B90.png"/>
+            <file href="group/GR_D96F7AF30A5415BA/3367E4214DFE739F.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/A229E4CBD4DCBE89.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/67638204247CEF82.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/750F22C796E01AC.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/8A9EF468B6E8DDA2.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/935305DC290C6493.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/AC59F14CAC1BC4AD.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/B829E6ACF009B8B2.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/B994CD91D6D8B7B6.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/D6F1D9F2C97439BB.jpg"/>
+            <file href="group/GR_D96F7AF30A5415BA/DD5BCD9592ADD885.png"/>
+            <file href="group/GR_D96F7AF30A5415BA/F78D8913D410EE95.jpg"/>
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-group</dc:format>
+        </resource>
+        <resource identifier="help_en_US" href="index.html?show=help!en-US" type="webcontent" adlcp:scormtype="asset">
+            <file href="help/en-US/img/box_content.png"/>
+            <file href="help/en-US/contents/cdoc!CD_25941754CA8FFD85/240C465E8931288D.png"/>
+            <file href="help/en-US/img/m_head_large_grad.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_1606123861F2B387/2A4C0F990489D399.png"/>
+            <file href="help/en-US/css/print.css"/>
+            <file href="help/en-US/img/cur_exp.cur"/>
+            <file href="help/en-US/contents/cdoc!CD_10F43626FBB2F4BC.htm"/>
+            <file href="help/en-US/img/favicon.ico"/>
+            <file href="help/en-US/contents/cdoc!CD_280B109C2ED57186.htm"/>
+            <file href="help/en-US/img/footer_grad.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_153843B1A98D5B83.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_1DD1C2C0981BFD89.htm"/>
+            <file href="help/en-US/css/headerfooter.css"/>
+            <file href="help/en-US/header.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_D3ED30040166409F.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_BD6527EAA3F6F194.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_2453F82EC484D5BE.htm"/>
+            <file href="help/en-US/img/boxHeader_bg_dark.jpg"/>
+            <file href="help/en-US/img/num9.png"/>
+            <file href="help/en-US/contents/cdoc!CD_1606123861F2B387.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_37056C831730E6B1.htm"/>
+            <file href="help/en-US/contents/start.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_41F667D795DEE0B7.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_2528DDD1E45DFDBB.htm"/>
+            <file href="help/en-US/search/searchindex.xml"/>
+            <file href="help/en-US/img/navpane_bg.jpg"/>
+            <file href="help/en-US/contents.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_BA8CCDB2E59AA6B4.htm"/>
+            <file href="help/en-US/img/num3.png"/>
+            <file href="help/en-US/img/box_bottom.png"/>
+            <file href="help/en-US/contents/cdoc!CD_25941754CA8FFD85.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_EF1BE15CEDFDD2BC.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_B8E8BCDBBD7A2B7/image001.png"/>
+            <file href="help/en-US/contents/cdoc!CD_4B0DA5AB4717D786.htm"/>
+            <file href="help/en-US/contents/favorites.htm"/>
+            <file href="help/en-US/img/bg_head_left.png"/>
+            <file href="help/en-US/img/cur_coll.cur"/>
+            <file href="help/en-US/img/cur_gloss.cur"/>
+            <file href="help/en-US/img/box_bottom_top_dark.png"/>
+            <file href="help/en-US/contents/cdoc!CD_28DD568C8688009D.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_36B3F5EFB29C5B93.htm"/>
+            <file href="help/en-US/css/left.css"/>
+            <file href="help/en-US/contents/cdoc!CD_48C000DF67102D91.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_7A7C3E006F8DA196/E092D4FA4EB92196.png"/>
+            <file href="help/en-US/img/doc_pdf.gif"/>
+            <file href="help/en-US/contents/cdoc!CD_7A7C3E006F8DA196.htm"/>
+            <file href="help/en-US/css/main.css"/>
+            <file href="help/en-US/css/boxes.css"/>
+            <file href="help/en-US/contents/cdoc!CD_88210301367B3C8C.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_9ABC72A61D06B6A1.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_E5CC78E81658CE90.htm"/>
+            <file href="help/en-US/contents/cdoc!CD_D54EE79E857D6EA5.htm"/>
+            <file href="help/en-US/img/num2.png"/>
+            <file href="help/en-US/contents/cdoc!CD_B8E8BCDBBD7A2B7.htm"/>
+            <file href="help/en-US/img/bg_head_left.jpg"/>
+            <file href="help/en-US/contents/cdoc!CD_EC77954C8B73B392.htm"/>
+            <file href="help/en-US/css/mobile.css"/>
+            <file href="help/en-US/contents/cdoc!CD_ED594D45157978A7.htm"/>
+            <file href="help/en-US/img/doc_doc.gif"/>
+            <file href="help/en-US/contents/cdoc!CD_F6DC6642D2B2D385.htm"/>
+            <file href="help/en-US/css/ie.css"/>
+            <file href="help/en-US/css/alternate.css"/>
+            <file href="help/en-US/img/box_top.png"/>
+            <file href="help/en-US/default.htm"/>
+            <file href="help/en-US/img/alpha.gif"/>
+            <file href="help/en-US/img/box_head_top_dark.png"/>
+            <file href="help/en-US/img/arr_down_grey.png"/>
+            <file href="help/en-US/img/divider.gif"/>
+            <file href="help/en-US/img/doc_html.gif"/>
+            <file href="help/en-US/img/footer_grad_inv.jpg"/>
+            <file href="help/en-US/img/footer_grad_inv_h.jpg"/>
+            <file href="help/en-US/img/head_large_grad.jpg"/>
+            <file href="help/en-US/img/note.png"/>
+            <file href="help/en-US/img/num1.png"/>
+            <file href="help/en-US/img/num10.png"/>
+            <file href="help/en-US/img/num4.png"/>
+            <file href="help/en-US/img/num5.png"/>
+            <file href="help/en-US/img/num6.png"/>
+            <file href="help/en-US/img/num7.png"/>
+            <file href="help/en-US/img/num8.png"/>
+            <file href="help/en-US/img/s.png"/>
+            <file href="help/en-US/img/sh.png"/>
+            <file href="help/en-US/img/supbutton.gif"/>
+            <file href="help/en-US/img/supbutton_hover.gif"/>
+            <file href="help/en-US/indexlist.htm"/>
+            <file href="help/en-US/script/cnt.js"/>
+            <file href="help/en-US/script/context.js"/>
+            <file href="help/en-US/script/master.js"/>
+            <file href="help/en-US/script/varchars.js"/>
+            <file href="help/en-US/search.htm"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-help</dc:format>
+        </resource>
+        <resource identifier="slide_SL_33998E47B9FC7FBA" href="index.html?show=slide!SL_33998E47B9FC7FBA" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="book_style_standard"/>
+            <dependency identifierref="bubble_bcx_information_bubble"/>
+            <dependency identifierref="group_GR_1DC85445EE0BAB93"/>
+            <dependency identifierref="group_GR_45A5641CCD424B95"/>
+            <dependency identifierref="group_GR_50F1B14B81BBE97"/>
+            <dependency identifierref="group_GR_B7B4253175DCA99A"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="slide_SL_C3DC2153A947568A"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-slide</dc:format>
+        </resource>
+        <resource identifier="slide_SL_C3DC2153A947568A" href="index.html?show=slide!SL_C3DC2153A947568A" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="book_BO_549182F80296DD83"/>
+            <dependency identifierref="book_style_standard"/>
+            <dependency identifierref="bubble_bcx_explanation"/>
+            <dependency identifierref="bubble_bcx_information_bubble"/>
+            <dependency identifierref="bubble_bcx_white_shadow"/>
+            <dependency identifierref="group_GR_1DC85445EE0BAB93"/>
+            <dependency identifierref="group_GR_45A5641CCD424B95"/>
+            <dependency identifierref="group_GR_50F1B14B81BBE97"/>
+            <dependency identifierref="group_GR_B7B4253175DCA99A"/>
+            <dependency identifierref="group_GR_D96F7AF30A5415BA"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-slide</dc:format>
+        </resource>
+        <resource identifier="slide_SL_C5F350FB32777492" href="index.html?show=slide!SL_C5F350FB32777492" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="book_style_standard"/>
+            <dependency identifierref="bubble_bcx_information_bubble"/>
+            <dependency identifierref="bubble_bcx_white_shadow"/>
+            <dependency identifierref="group_GR_1DC85445EE0BAB93"/>
+            <dependency identifierref="group_GR_45A5641CCD424B95"/>
+            <dependency identifierref="group_GR_50F1B14B81BBE97"/>
+            <dependency identifierref="group_GR_D96F7AF30A5415BA"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-slide</dc:format>
+        </resource>
+        <resource identifier="slide_SL_F822014CD439BCAF" href="index.html?show=slide!SL_F822014CD439BCAF" type="webcontent" adlcp:scormtype="asset">
+            <dependency identifierref="adaptable_categories"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="book_style_standard"/>
+            <dependency identifierref="bubble_bcx_information_bubble"/>
+            <dependency identifierref="group_GR_1DC85445EE0BAB93"/>
+            <dependency identifierref="group_GR_45A5641CCD424B95"/>
+            <dependency identifierref="help_en_US"/>
+            <dependency identifierref="slide_SL_C3DC2153A947568A"/>
+            <dependency identifierref="TRAINER"/>
+            <dc:format>application/x-sap-wpb-slide</dc:format>
+        </resource>
+        <resource identifier="TRAINER" href="index.html" type="webcontent" adlcp:scormtype="asset">
+            <file href="trainer/10_5_9_90/about_blank.html"/>
+            <file href="trainer/10_5_9_90/aicc.html"/>
+            <file href="trainer/10_5_9_90/1.gif"/>
+            <file href="trainer/10_5_9_90/context.html"/>
+            <file href="trainer/10_5_9_90/hotspot.png"/>
+            <file href="trainer/10_5_9_90/index.html"/>
+            <file href="trainer/10_5_9_90/trainer.js"/>
+            <file href="trainer/10_5_9_90/slide.js"/>
+            <file href="trainer/10_5_9_90/slide.htm"/>
+            <file href="trainer/10_5_9_90/tree_icons.png"/>
+            <file href="trainer/10_5_9_90/video_export.html"/>
+            <file href="index.html"/>
+            <file href="context.html"/>
+            <dependency identifierref="adaptable_bcx_trainer_medium"/>
+            <dependency identifierref="adaptable_simulation_playback"/>
+            <dependency identifierref="adaptable_text_styles"/>
+            <dependency identifierref="glossary_standard"/>
+            <dependency identifierref="help_en_US"/>
+            <dc:format>application/x-sap-wpb-trainer</dc:format>
+        </resource>
+    </resources>
+</manifest>
